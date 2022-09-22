@@ -1,8 +1,0 @@
-C:\Users\catab\Desktop\Fast3D\Debug\Fast3D.vcxproj.CopyComplete
-C:\Users\catab\Desktop\Fast3D\Debug\Fast3D.exe
-C:\Users\catab\Desktop\Fast3D\Debug\Fast3D.pdb
-C:\Users\catab\Desktop\Fast3D\Debug\pdcurses.dll
-D:\MEGA\Facultate\own_projects\Fast3D\Debug\Fast3D.vcxproj.CopyComplete
-D:\MEGA\Facultate\own_projects\Fast3D\Debug\Fast3D.exe
-D:\MEGA\Facultate\own_projects\Fast3D\Debug\Fast3D.pdb
-D:\MEGA\Facultate\own_projects\Fast3D\Debug\pdcurses.dll
